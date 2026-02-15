@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Después de formarme en **Enfermería**, he decidido comenzar una nueva etapa en el mundo del *Análisis de Datos*.
+Después de formarme en **Enfermería**, decidí comenzar una nueva etapa en el mundo del *Análisis de Datos*.
 
 Actualmente estoy dando mis primeros pasos en:
 
