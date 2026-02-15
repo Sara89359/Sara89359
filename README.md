@@ -32,6 +32,13 @@ Quiero aplicar el análisis de datos en el sector sanitario para:
 
 ---
 
+## 🚀 Proyectos destacados
+
+### [Atlas - Exploración de Datos]([enlace-al-repo](https://github.com/Anais-RV/da-sat-01-atlas-exploracion-datos.git))
+Análisis descriptivo de datos de biblioteca usando Google Sheets. Primer proyecto del bootcamp.
+
+---
+
 ## 🛠️ Actualmente aprendiendo
 
 `Python` · `Excel` · `Git` · `GitHub` · `VS Code`
@@ -40,6 +47,15 @@ Quiero aplicar el análisis de datos en el sector sanitario para:
 
 ---
 
+## 📫 Cómo contactarme
+
+- **LinkedIn:**
+- **Email:** 
+- **GitHub:** Estás aquí 😊
+
+Siempre abierta a colaborar en proyectos de análisis de datos y aprender de la comunidad.
+
+---
 ## ⚔️ Side Quests
 
 Cuando no estoy entre datasets y gráficos:
