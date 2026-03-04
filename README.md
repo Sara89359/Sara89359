@@ -37,6 +37,12 @@ Quiero aplicar el análisis de datos en el sector sanitario para:
 https://github.com/Sara89359/bootcamp-apuntes.git
 Mi primera semana en GitHub
 
+https://github.com/Sara89359/Mision-Galactica.git
+Una misión facilita con ejercicios de Python.
+
+https://github.com/Sara89359/Ejercicios_Kepler.git
+Ejercicios que suben de nivel gradualmente, para aprender y practicar Python
+
 ---
 
 ## 🛠️ Actualmente aprendiendo
