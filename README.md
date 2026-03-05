@@ -34,8 +34,8 @@ Quiero aplicar el análisis de datos en el sector sanitario para:
 
 ## 🚀 Proyectos destacados
 
-https://github.com/Sara89359/bootcamp-apuntes.git
-Mi primera semana en GitHub
+https://github.com/Sara89359/Ejercicio_Limpieza_de_datos.git
+Explicación y ejercicio sobre como hacer un data cleaning paso a paso
 
 https://github.com/Sara89359/Mision-Galactica.git
 Una misión facilita con ejercicios de Python.
