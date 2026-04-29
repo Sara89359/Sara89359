@@ -64,7 +64,7 @@ Ejercicios que suben de nivel gradualmente, para aprender y practicar Python
 
 ## 📫 Cómo contactarme
 
-- **LinkedIn:**
+- **LinkedIn:** https://www.linkedin.com/in/sara-bailon-941b5814b/
 - **Email:** 
 - **GitHub:** Estás aquí 😊
 
