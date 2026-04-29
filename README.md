@@ -34,13 +34,22 @@ Quiero aplicar el análisis de datos en el sector sanitario para:
 
 ## 🚀 Proyectos destacados
 
-https://github.com/Sara89359/Ejercicio_Limpieza_de_datos.git
+### 🐧 Proyecto Pingüinos — Análisis completo + Dashboard interactivo
+Repositorio: https://github.com/Sara89359/Proyecto_Pinguinos
+
+Proyecto grupal donde realizamos un análisis end‑to‑end de un dataset real de pingüinos:
+- Limpieza y exploración de datos (EDA)
+- Detección de sesgos, duplicados y problemas de calidad
+- Análisis morfológico y comparativas entre especies e islas
+- Integración de visualizaciones avanzadas
+- Desarrollo y despliegue de un dashboard interactivo orientado a cliente
+
+Incluye storytelling, recomendaciones y una simulación de mejora del dataset.
+
+### https://github.com/Sara89359/Ejercicio_Limpieza_de_datos.git
 Explicación y ejercicio sobre como hacer un data cleaning paso a paso
 
-https://github.com/Sara89359/Mision-Galactica.git
-Una misión facilita con ejercicios de Python.
-
-https://github.com/Sara89359/Ejercicios_Kepler.git
+### https://github.com/Sara89359/Ejercicios_Kepler.git
 Ejercicios que suben de nivel gradualmente, para aprender y practicar Python
 
 ---
